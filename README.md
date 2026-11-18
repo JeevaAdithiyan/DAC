@@ -1,3 +1,4 @@
+JEEVA ADITHIYAN SK 212225060102
 # DAC
  INTERFACING DAC WITH 8086 KIT AND GENERATING SAWTOOTH AND SQUARE WAVEFORMS
 
@@ -82,18 +83,24 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 
 | Waveform  | Amplitude | Time period | 
 |-----------|-----------|-------------|
-| Sawtooth  |           |             | 
-| Square    |           |             |
+| Sawtooth  |   0.5V        |     256*T        | 
+| Square    |   0.5V        |     2*T        |
 ---
 
 ## Model Graph
 
 *(Insert graph/diagram here if available)*
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/63d2f8fd-0722-4364-a3df-5a984a8b67c9" />
 
 
 
 ## OUTPUT IMAGE OF DAC(SAWTOOTH WAVE FROM DSO AND SQUARE WAVE FROM DSO)
+![Uploading image.png…]()
 
+
+##CALCULATION
+<img width="1079" height="660" alt="image" src="https://github.com/user-attachments/assets/763f0095-09aa-4b25-80a8-b7c7bdbffc08" />
+<img width="1079" height="507" alt="image" src="https://github.com/user-attachments/assets/2001fad9-c77d-4dda-84f6-2b72e9dd4abd" />
 
 
 
